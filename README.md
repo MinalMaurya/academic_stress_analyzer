@@ -614,21 +614,18 @@ Possible future improvements include:
 
 Screenshots of the live application can be added here.
 
-Example:
 
-```markdown
-## Home Page
+### Home Page
 
 ![Home Page](screenshots/home.png)
 
-## Stress Analysis
+### Stress Analysis
 
 ![Stress Analysis](screenshots/analysis.png)
 
-## Results
+### Results
 
 ![Results](screenshots/results.png)
-```
 ---
 
 # Live Project
